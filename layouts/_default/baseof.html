@@ -4,11 +4,10 @@
     {{ partial "head" . }}
 </head>
 <body>
-    <header></header>
-    <nav></nav>
     <main>
         <aside></aside>
+        {{ block "main" . }}
+        {{ end }}
     </main>
-    <footer></footer>
 </body>
 </html>

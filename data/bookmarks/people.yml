@@ -1,0 +1,14 @@
+title: People
+description: Some people that makes awesome stuff.
+items:
+  - name: CGP Grey
+    link: https://www.cgpgrey.com/
+    description: One of the best contents on YouTube, and co-host of Hello Internet podcast.
+  
+  - name: Justine Haupt
+    link: http://justine-haupt.com/
+    description: Incredible engineer.
+
+  - name: Brady Haran
+    link: http://www.bradyharanblog.com/
+    description: Multiple YouTube channels, and co-host of Hello Internet podcast.

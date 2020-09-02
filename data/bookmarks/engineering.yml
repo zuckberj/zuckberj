@@ -1,0 +1,14 @@
+title: General Engineering
+description:
+items:
+  - name: OpenFoam
+    link: https://openfoam.org/
+    description: A set of C++ solvers for numeriacal problems.
+
+  - name: Vibration Data
+    link: https://vibrationdata.wordpress.com/
+    description: About structural dynamics software.
+  
+  - name: Salome Platform
+    link: https://www.salome-platform.org/
+    description: A pre and post processor for various sets of solvers.

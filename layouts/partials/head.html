@@ -5,6 +5,7 @@
 <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-{{ $bulma := resources.Get "/node_modules/bulma/bulma.sass" | toCSS | minify }}
-<link rel="stylesheet" href="{{ $bulma.Permalink }}">
-<link rel="stylesheet" href="style.css">
+{{ hugo.Generator }}
+
+{{ $main := resources.Get "/sass/main.scss" | toCSS | minify }}
+<link rel="stylesheet" href="{{ $main.Permalink }}">

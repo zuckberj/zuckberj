@@ -6,7 +6,8 @@
   "scripts": {
     "install": "npm install --prefix assets",
     "test": "hugo check",
-    "serve": "hugo serve"
+    "serve": "hugo serve",
+    "build": "npm run install && npm run test && hugo"
   },
   "repository": {
     "type": "git",

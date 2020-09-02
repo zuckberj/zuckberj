@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Cantata+One');
+@import "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/regular.scss";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
+
+
+$font: "Cantata One",
+serif;
+
+$alpha: rgb(148, 144, 182);
+$beta: #ede6d5;
+/*rgb(240, 252, 255);*/
+$gama: rgb(247, 205, 120);
+$bg2: rgba(44, 42, 63, 1);
+$bg1: rgb(13, 12, 19);
+
+$above: "only screen and (min-width: 600px)";
+$below: "only screen and (max-width: 600px)";
+$small: "only screen and (max-width: 400px)";
+
+/* Coolors Exported Palette - coolors.co/413e5e-5e6768-9989a6-91ada6-1c1c1c */
+
+/* HSL */
+$color1: hsla(246%, 21%, 31%, 1);
+$color2: hsla(186%, 5%, 39%, 1);
+$color3: hsla(273%, 14%, 59%, 1);
+$color4: hsla(165%, 15%, 62%, 1);
+$color5: hsla(0%, 0%, 11%, 1);
+
+/* RGB */
+$color1: rgba(65, 62, 94, 1);
+$color2: rgba(94, 103, 104, 1);
+$color3: rgba(153, 137, 166, 1);
+$color4: rgba(145, 173, 166, 1);
+$color5: rgba(28, 28, 28, 1);
