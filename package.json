@@ -4,7 +4,7 @@
   "description": "My Personal Page",
   "main": "index.js",
   "scripts": {
-    "install": "npm install --prefix assets",
+    "install": "npm i --prefix assets",
     "test": "hugo check",
     "serve": "hugo serve",
     "build": "npm run install && npm run test && hugo"
