@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo|Cantata+One');
+
+$fa-font-path: "/css/webfonts";
 @import "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
 @import "../node_modules/@fortawesome/fontawesome-free/scss/regular.scss";
 @import "../node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
@@ -8,8 +10,7 @@ $font: "Cantata One",
 serif;
 
 $alpha: rgb(148, 144, 182);
-$beta: #ede6d5;
-/*rgb(240, 252, 255);*/
+$beta: #ede6d5;/*rgb(240, 252, 255);*/
 $gama: rgb(247, 205, 120);
 $bg2: rgba(44, 42, 63, 1);
 $bg1: rgb(13, 12, 19);

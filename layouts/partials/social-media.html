@@ -1,0 +1,7 @@
+<div id="social-media">
+    {{ range .Site.Data.socialmedia.items }}
+    <a href="{{ .href }}{{ .id }}" target="_blank" title="{{ .title }}">
+        <i class="fab {{ .faicon }}"></i>
+    </a>
+    {{ end }}
+</div>

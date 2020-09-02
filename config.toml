@@ -3,9 +3,13 @@ languageCode = "en-us"
 title = "Victor's Page"
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+category = "categories"
+tag = "tags"
 
 [params]
-    description = "My personal page."
-    author = "@zuckberj"
+author = "@zuckberj"
+description = "My personal page."
+name = "Victor"
+[params.picture]
+src = "/images/picture.jpg"
+alt = ""
