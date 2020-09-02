@@ -1,0 +1,21 @@
+{
+  "name": "zuckberj",
+  "version": "1.0.0",
+  "description": "My Personal Page",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install --prefix assets",
+    "test": "hugo check",
+    "serve": "hugo serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuckberj/zuckberj.git"
+  },
+  "author": "zuckberj",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/zuckberj/zuckberj/issues"
+  },
+  "homepage": "https://github.com/zuckberj/zuckberj#readme"
+}

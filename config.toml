@@ -1,3 +1,7 @@
 baseURL = "https://zuckberj.page/"
 languageCode = "en-us"
 title = "Victor's Page"
+
+[params]
+    description = "My personal page."
+    author = "@zuckberj"
