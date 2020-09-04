@@ -9,7 +9,7 @@ tag = "tags"
 [params]
 author = "@zuckberj"
 description = "My personal page."
-name = "Victor"
+name = "Victor Santos"
 [params.picture]
-src = "/images/picture.jpg"
+src = "/images/me2.jpg"
 alt = ""

@@ -19,6 +19,19 @@ body {
   }
 }
 
+@media only screen and (max-width: 479px) {
+  .mobile-hide{ display: none !important; }
+}
+
+footer {
+  position: absolute;
+  width: max-content;
+  padding: 1rem 1rem;
+  bottom: 0;
+  right: 0;
+  font-size: 0.8em;
+}
+
 a {
   color: $alpha;
   text-decoration: none;
