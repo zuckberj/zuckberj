@@ -11,5 +11,5 @@ author = "@zuckberj"
 description = "My personal page."
 name = "Victor Santos"
 [params.picture]
-src = "/images/me2.jpg"
+src = "/images/me.jpg"
 alt = ""
