@@ -1,5 +1,5 @@
 <header>
-    <img alt="{{ .Site.Params.picture.alt }}" src="{{ .Site.Params.picture.src }}"/>
+    <img alt="{{ .Site.Params.picture.alt }}" src="{{ .Site.Params.picture.src }}" />
 
     <h1 class="header-title">
         <a href="/" title="{{ .Site.Title }}">
@@ -18,12 +18,13 @@
         </small>
     </p>
 
-    <nav>
-        <ul class="header none">
-            <li><a href="/resume" title="Résumé">Résumé</a></li>
-            <li><a href="/logs" title="the log files">Log Files</a></li>
-            <li><a href="/projects" title="the list of current, future and archived projects">Projects</a></li>
-            <li><a href="/bookmarks" title="a collection of hyperlinks">Bookmarks</a></li>
+    <nav class="pure-menu">
+        <ul class="header none pure-menu-list">
+            {{ range .Site.Menus.main }}
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
         </ul>
     </nav>
 
