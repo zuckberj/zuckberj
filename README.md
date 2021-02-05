@@ -3,7 +3,7 @@
 I'm a
 
 - 🎓 Aerospace Engineering Student @ UFMG;
-- 🔭 I’m currently working with Flutter (the framework) and flutter (the phenomenae); 
+- 🔭 Working with flutter (the phenomenae), Hugo (the Go framework); 
 - 🌱 Currently learning Julia!
 - 🤖 Code mostly in Python, Matlab and JS/TS;
 - 🎗️ Other languages: C/C++, Java, C#, Go and Ruby;
@@ -13,8 +13,8 @@ I'm a
 ## Some Stats
 
 [![Zuckberj's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuckberj&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuckberj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuckberj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **zuckberj/zuckberj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
