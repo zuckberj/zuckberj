@@ -1,9 +1,16 @@
-### Hi there 👋
+## Hello there 👋
 
-- Aerospace Engineering Student @ UFMG
-- 🌱 I’m currently learning Julia!
+I'm a
 
-#### Some Stats
+- 🎓 Aerospace Engineering Student @ UFMG;
+- 🔭 I’m currently working with Flutter (the framework) and flutter (the phenomenae); 
+- 🌱 Currently learning Julia!
+- 🤖 Code mostly in Python, Matlab and JS/TS;
+- 🎗️ Other languages: C/C++, Java, C#, Go and Ruby;
+- 🚨 Please, I don't wanna work with: PHP;
+
+
+## Some Stats
 
 [![Zuckberj's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuckberj&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuckberj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
